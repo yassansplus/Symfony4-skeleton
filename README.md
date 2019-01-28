@@ -1,1 +1,1 @@
-acapDev
+Squelette Symfony 4
